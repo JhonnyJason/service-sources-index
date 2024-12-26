@@ -1,5 +1,6 @@
 import Modules from "./allmodules"
 
+############################################################
 global.allModules = Modules
 import *  as cfg from "./configmodule.js"
 
